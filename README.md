@@ -1,5 +1,5 @@
 # Algorithms
-Algorithms Theory class BSU 2019(February - May)
+Algorithms Theory class BSU 2019 (February - May)
 
 Tools used: C++, Java
 
